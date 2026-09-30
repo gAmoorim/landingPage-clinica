@@ -70,7 +70,7 @@ export default function LandingPage() {
       <header className="fixed left-0 top-0 z-40 w-full backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 md:px-10">
           <a href="#" className="flex items-center gap-3">
-            <img src="/logoclinica.png" alt="logo" className="h-13 w-13 object-contain" />
+            <img src="/" alt="logo" className="h-13 w-13 object-contain" />
             <span className="text-lg font-semibold tracking-tight text-[#1a3a36]">Clínica Dr. Marcelo</span>
           </a>
 
