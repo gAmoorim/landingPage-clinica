@@ -351,7 +351,7 @@ export default function LandingPage() {
 
       {/* ── FOOTER ── */}
       <footer className="bg-gradient-to-r from-[#1a3a36] to-[#2d6b62] px-6 py-8 text-center text-sm text-white/70">
-        <p>© 2026 izcode. Todos os direitos reservados.</p>
+        <p>© 2026 gAmoorim. Todos os direitos reservados.</p>
         <p className="mt-2">CRM 000000 • Informações da página não substituem avaliação médica individual.</p>
       </footer>
 
