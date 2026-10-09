@@ -70,6 +70,6 @@ npm run dev
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido por **izcode**. Todos os direitos reservados © 2026.
+Este projeto foi desenvolvido por **gAmoorim**. Todos os direitos reservados © 2026.
 
 > As informações contidas nesta página não substituem avaliação médica individual.
