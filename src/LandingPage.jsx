@@ -5,7 +5,7 @@ import {
   MessageCircle,
   Star,
   MapPin,
-  Sparkles
+  Sparkles,
   UserCheck,
   Clock,
   ChevronRight,
