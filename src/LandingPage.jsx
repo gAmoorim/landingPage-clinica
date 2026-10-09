@@ -5,7 +5,7 @@ import {
   MessageCircle,
   Star,
   MapPin,
-  Sparkles,
+  Sparkles
   UserCheck,
   Clock,
   ChevronRight,
@@ -36,12 +36,12 @@ export default function LandingPage() {
   }
 
   const procedimentos = [
-    { titulo: "Toxina Botulínica", texto: "Suavização de linhas de expressão com resultado natural e planejamento individualizado." },
-    { titulo: "Preenchimento Facial", texto: "Realce de contornos, lábios e regiões específicas com equilíbrio e segurança." },
-    { titulo: "Bioestimuladores", texto: "Estímulo de colágeno para melhora gradual da firmeza e qualidade da pele." },
-    { titulo: "Harmonização Facial", texto: "Planejamento completo para valorizar os traços naturais do rosto." },
-    { titulo: "Skinbooster", texto: "Hidratação profunda para melhora da textura, luminosidade e viço da pele." },
-    { titulo: "Fios de PDO", texto: "Tratamento minimamente invasivo para sustentação e estímulo de colágeno." },
+    { titulo: "Toxina Botulínica", texto: "Tratamento que auxilia na suavização de linhas de expressão, com planejamento individualizado e foco na naturalidade." },
+    { titulo: "Preenchimento Facial", texto: "Procedimento voltado à valorização dos contornos faciais e de regiões específicas, considerando o equilíbrio das proporções do rosto." },
+    { titulo: "Bioestimuladores de Colágeno", texto: "Tratamentos que estimulam a produção de colágeno, contribuindo gradualmente para a firmeza e a qualidade da pele." },
+    { titulo: "Harmonização Facial", texto: "Planejamento de procedimentos estéticos com o objetivo de valorizar as características naturais e a harmonia dos traços faciais." },
+    { titulo: "Skinbooster", texto: "Tratamento injetável voltado à hidratação da pele, podendo contribuir para a melhora de sua textura e luminosidade" },
+    { titulo: "Fios de PDO", texto: "Procedimento minimamente invasivo que pode auxiliar na sustentação dos tecidos e estimular a produção de colágeno, conforme a indicação profissional." },
   ];
 
   const diferenciais = [
@@ -304,7 +304,7 @@ export default function LandingPage() {
             </p>
             <div className="space-y-4 text-[#1a3a36]">
               <p className="flex items-center gap-3"><Phone className="text-[#3a9b8e]" /> (00) 00000-0000</p>
-              <p className="flex items-center gap-3"><Instagram className="text-[#3a9b8e]" /> @drnomedomedico</p>
+              <p className="flex items-center gap-3"><Instagram className="text-[#3a9b8e]" /> </p>
               <p className="flex items-center gap-3"><MapPin className="text-[#3a9b8e]" /> Av. Exemplo, 123 - Sua Cidade</p>
               <p className="flex items-center gap-3"><Clock className="text-[#3a9b8e]" /> Segunda a sexta, 08h às 18h</p>
             </div>
